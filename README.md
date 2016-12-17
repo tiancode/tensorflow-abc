@@ -17,6 +17,7 @@
 * [TensorFlow练习15: 中文语音识别](http://blog.topspeedsnail.com/archives/10696)
 * [TensorFlow练习16: 根据大脸判断性别和年龄](http://blog.topspeedsnail.com/archives/10767)
 * [TensorFlow练习17: “声音大挪移”](http://blog.topspeedsnail.com/archives/10812)
+* [TensorFlow练习18: 根据姓名判断性别](http://blog.topspeedsnail.com/archives/10833)
 
 # Github
 
