@@ -1,5 +1,7 @@
 # TensorFlow练习
 
+* [TensorFlow练习20: 使用深度学习破解字符验证码](http://blog.topspeedsnail.com/archives/10858)
+* [TensorFlow练习19: 预测天朝铁路客运量](http://blog.topspeedsnail.com/archives/10845)
 * [TensorFlow练习18: 根据姓名判断性别](http://blog.topspeedsnail.com/archives/10833)
 * [TensorFlow练习17: “声音大挪移”](http://blog.topspeedsnail.com/archives/10812)
 * [TensorFlow练习16: 根据大脸判断性别和年龄](http://blog.topspeedsnail.com/archives/10767)
