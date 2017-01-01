@@ -29,3 +29,4 @@
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
 * [tensorflow-exercises](https://github.com/Kyubyong/tensorflow-exercises)
 * [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+* [CADL](https://github.com/pkmital/CADL)
