@@ -1,5 +1,11 @@
 # TensorFlow练习
 
+* [TensorFlow练习26: AI操盘手](http://blog.topspeedsnail.com/archives/11115)
+* [TensorFlow练习25: 使用深度学习做阅读理解+完形填空](http://blog.topspeedsnail.com/archives/11062)
+* [TensorFlow练习24: GANs-生成对抗网络 (生成明星脸)](http://blog.topspeedsnail.com/archives/10977)
+* [TensorFlow练习23: “恶作剧”](http://blog.topspeedsnail.com/archives/10931)
+* [TensorFlow练习22: 手写汉字识别](http://blog.topspeedsnail.com/archives/10897)
+* [TensorFlow练习21: 把Deep Dream应用到视频上](http://blog.topspeedsnail.com/archives/10880)
 * [TensorFlow练习20: 使用深度学习破解字符验证码](http://blog.topspeedsnail.com/archives/10858)
 * [TensorFlow练习19: 预测天朝铁路客运量](http://blog.topspeedsnail.com/archives/10845)
 * [TensorFlow练习18: 根据姓名判断性别](http://blog.topspeedsnail.com/archives/10833)
@@ -30,3 +36,4 @@
 * [tensorflow-exercises](https://github.com/Kyubyong/tensorflow-exercises)
 * [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
 * [CADL](https://github.com/pkmital/CADL)
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
